@@ -1,0 +1,256 @@
+{
+  "continents": [
+    { "name": "Europa",
+      "id": 1,
+      "definition": "O continente mais antigo",
+      "banner_home": "https://images.unsplash.com/photo-1490642914619-7955a3fd483c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1970&q=80",
+      "banner_continent": "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+      "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+      "countries_amount": 50,
+      "languages_amount": 60,
+      "main_cities_amount": 27,
+      "cities": [
+        {
+          "city_image": "https://images.unsplash.com/photo-1533929736458-ca588d08c8be?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+          "name": "Londres",
+          "from": "Reino Unido",
+          "flag": "https://image.flaticon.com/icons/png/512/197/197374.png"
+        },
+        {
+          "city_image": "https://images.unsplash.com/photo-1522093007474-d86e9bf7ba6f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80",
+          "name": "Paris",
+          "from": "France",
+          "flag": "https://image.flaticon.com/icons/png/512/197/197560.png"
+        },
+        {
+          "city_image": "https://images.unsplash.com/photo-1529260830199-42c24126f198?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=755&q=80",
+          "name": "Roma",
+          "from": "Itália",
+          "flag": "https://image.flaticon.com/icons/png/512/197/197626.png"
+        },
+        {
+          "city_image": "https://images.unsplash.com/photo-1519677100203-a0e668c92439?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+          "name": "Praga",
+          "from": "República Tcheca",
+          "flag": "https://image.flaticon.com/icons/png/512/197/197576.png"
+        },
+        {
+          "city_image": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80",
+          "name": "Amsterdã",
+          "from": "Holanda",
+          "flag": "https://image.flaticon.com/icons/png/512/197/197441.png"
+        }
+      ]
+    },
+    { "name": "Oceania",
+      "id": 2,
+      "definition": "animais exóticos, praias paradisíacas, continente também conhecido como Novo Mundo",
+      "banner_home": "https://images.unsplash.com/photo-1532984969226-95057604f683?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1991&q=80",
+      "banner_continent": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+      "description": "A Oceania é o continente mais isolado do mundo, sua barreira geográfica fez com que fosse o último a ser descoberto pelos europeus. Em razão desse atraso em seu descobrimento ficou conhecido como mundo novo.",
+      "countries_amount": 16,
+      "languages_amount": 18,
+      "main_cities_amount": 12,
+      "cities": [
+        {
+          "city_image": "https://images.unsplash.com/photo-1613079900861-0b9ecc4e1b93?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=871&q=80",
+          "name": "Sydney",
+          "from": "Austrália",
+          "flag": "https://image.flaticon.com/icons/png/512/197/197507.png"
+        },
+        {
+          "city_image": "https://images.unsplash.com/photo-1616408585022-4be4905b1e48?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bWVsYm91cm5lJTIwY2l0eXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "name": "Melbourne",
+          "from": "Austrália",
+          "flag": "https://image.flaticon.com/icons/png/512/197/197507.png"
+        },
+        {
+          "city_image": "https://wallpapercave.com/wp/wp4191199.jpg",
+          "name": "Porto Moresby",
+          "from": "Papua-Nova Guiné",
+          "flag": "https://image.flaticon.com/icons/png/512/197/197407.png"
+        },
+        {
+          "city_image": "https://images.unsplash.com/photo-1519677100203-a0e668c92439?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+          "name": "Auckland",
+          "from": "Nova Zelândia",
+          "flag": "https://image.flaticon.com/icons/png/512/197/197507.png"
+        },
+        {
+          "city_image": "https://images.unsplash.com/photo-1566734904496-9309bb1798ae?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80",
+          "name": "Brisbane",
+          "from": "Austrália",
+          "flag": "https://image.flaticon.com/icons/png/512/197/197507.png"
+        }
+      ]
+    },
+    { "name": "Asia",
+      "id": 3,
+      "definition": "Diversidade Cultural, monumentos antigos, um dos berços da civilização",
+      "banner_home": "https://images.unsplash.com/photo-1464817739973-0128fe77aaa1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+      "banner_continent": "https://images.unsplash.com/photo-1585636800927-e1433f62a98a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1950&q=80",
+      "description": "A Ásia é o maior dos continentes, tanto em área como em população. Abrange um terço das partes sólidas da superfície da Terra e é responsável por abrigar quase três quintos da população mundial. A Ásia faz fronteira no lado ocidental com a África e com a Europa, e no lado oriental com o oceano Pacífico, a Oceania e, em menor proporção, com a América do Norte, pelo Estreito de Bering.",
+      "countries_amount": 50,
+      "languages_amount": 51,
+      "main_cities_amount": 12,
+      "cities": [
+        {
+          "city_image": "https://images.unsplash.com/photo-1549693578-a094e577de3f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+          "name": "Tóquio",
+          "from": "Japão",
+          "flag": "https://image.flaticon.com/icons/png/512/197/197604.png"
+        },
+        {
+          "city_image": "https://i.pinimg.com/originals/8e/98/aa/8e98aa2a07c70ca872d94bfbbd00b021.jpg",
+          "name": "Seul",
+          "from": "Coréia do Sul",
+          "flag": "https://image.flaticon.com/icons/png/512/197/197582.png"
+        },
+        {
+          "city_image": "https://images.unsplash.com/photo-1515091943-9d5c0ad475af?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=375&q=80",
+          "name": "Nova Dehli",
+          "from": "Índia",
+          "flag": "https://image.flaticon.com/icons/png/512/197/197419.png"
+        },
+        {
+          "city_image": "https://images.unsplash.com/photo-1542189412744-bfabf27522ee?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+          "name": "Hong Kong",
+          "from": "China",
+          "flag": "https://image.flaticon.com/icons/png/512/197/197570.png"
+        },
+        {
+          "city_image": "https://images.unsplash.com/photo-1575864716793-49a09717eb03?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=401&q=80",
+          "name": "Jacarta",
+          "from": "Indonésia",
+          "flag": "https://image.flaticon.com/icons/png/512/197/197559.png"
+        }
+      ]
+    },
+    { "name": "África",
+      "id": 4,
+      "definition": "Terra dos desertos, savanas, e milhares de dialetos.",
+      "banner_home": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1932&q=80",
+      "banner_continent": "https://images.unsplash.com/photo-1484318571209-661cf29a69c3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+      "description": "A África é o terceiro continente mais extenso (depois da Ásia e da América) com cerca de 30 milhões de quilômetros quadrados, cobrindo 20,3% da área total da terra firme do planeta. É o segundo continente mais populoso da Terra (atrás da Ásia) com cerca de um bilhão de pessoas (estimativa para 2005[1]).",
+      "countries_amount": 54,
+      "languages_amount": 2092,
+      "main_cities_amount": 5,
+      "cities": [
+        {
+          "city_image": "https://wallpapercave.com/wp/wp4188459.jpg",
+          "name": "Lagos",
+          "from": "Nigéria",
+          "flag": "https://image.flaticon.com/icons/png/512/197/197627.png"
+        },
+        {
+          "city_image": "https://i.pinimg.com/originals/86/58/bb/8658bb52d1f2fd7204efdfdd7e778792.jpg",
+          "name": "Kinshasa",
+          "from": "Rep. Democrática do Congo",
+          "flag": "https://image.flaticon.com/icons/png/512/197/197396.png"
+        },
+        {
+          "city_image": "https://wallpapercave.com/wp/wp2285582.jpg",
+          "name": "Luanda",
+          "from": "Angola",
+          "flag": "https://image.flaticon.com/icons/png/512/197/197513.png"
+        },
+        {
+          "city_image": "https://i.pinimg.com/originals/8f/02/12/8f0212609996c47b76a4037dd2d8d925.jpg",
+          "name": "Cidade do Cabo",
+          "from": "África do Sul",
+          "flag": "https://image.flaticon.com/icons/png/512/197/197562.png"
+        },
+        {
+          "city_image": "https://i.pinimg.com/originals/7b/aa/62/7baa622282bf30064b525ac78d296491.jpg",
+          "name": "Addis Ababa",
+          "from": "Etiópia",
+          "flag": "https://image.flaticon.com/icons/png/512/197/197636.png"
+        }
+      ]
+    },
+    { "name": "América do Sul",
+      "id": 5,
+      "definition": "Belezas Naturais, clima tropical, povo hospitaleiro.",
+      "banner_home": "https://images.unsplash.com/photo-1526392060635-9d6019884377?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1950&q=80",
+      "banner_continent": "https://images.unsplash.com/photo-1578650553229-8920ad2eeaa8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+      "description": "Com uma extensão de cerca de 17,8 milhões de km², a América do Sul comporta 6% da população mundial dividida em 12 países e 7 territórios. São eles a Argentina, Bolívia, Brasil, Chile, Colômbia, Equador, Guiana, Paraguai, Peru, Suriname, Uruguai e Venezuela e, os territórios da Guiana Francesa, Ilha de Páscoa, Ilhas Galápagos, Ilhas Geórgia e Sandwich e Ilhas Malvinas.",
+      "countries_amount": 50,
+      "languages_amount": 51,
+      "main_cities_amount": 12,
+      "cities": [
+        {
+          "city_image": "https://c4.wallpaperflare.com/wallpaper/274/167/705/skyscraper-south-america-pinheiros-river-brazil-wallpaper-preview.jpg",
+          "name": "São Paulo",
+          "from": "Brasil",
+          "flag": "https://image.flaticon.com/icons/png/512/197/197386.png"
+        },
+        {
+          "city_image": "https://www.stwintercambio.com.br/wp-content/uploads/2017/09/Buenos-Aires-HD-Wallpaper.jpg",
+          "name": "Buenos Aires",
+          "from": "Argentina",
+          "flag": "https://image.flaticon.com/icons/png/512/197/197573.png"
+        },
+        {
+          "city_image": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/64000/64776-Montevideo.jpg",
+          "name": "Montevideu",
+          "from": "Uruguai",
+          "flag": "https://image.flaticon.com/icons/png/512/197/197599.png"
+        },
+        {
+          "city_image": "https://i.pinimg.com/originals/8b/48/0f/8b480f4a5564ed1101b50553e1cf1a0c.jpg",
+          "name": "La Paz",
+          "from": "Bolívia",
+          "flag": "https://image.flaticon.com/icons/png/512/197/197504.png"
+        },
+        {
+          "city_image": "https://i.pinimg.com/originals/b8/5d/e3/b85de3cb579ed9773f7bc613f7678770.jpg",
+          "name": "Santiago",
+          "from": "Chile",
+          "flag": "https://image.flaticon.com/icons/png/512/197/197586.png"
+        }
+      ]
+    },
+    { "name": "América do Norte",
+      "id": 6,
+      "definition": "lugares incríveis, cheios de histórias, atrações para todos os gostos, estilos e bolsos.",
+      "banner_home": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+      "banner_continent": "https://images.unsplash.com/photo-1492666673288-3c4b4576ad9a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1789&q=80",
+      "description": "A América do Norte está localizada no extremo norte das Américas e é composta por apenas três países: Estados Unidos, Canadá e México, além de territórios de domínios europeus, como a Groelândia (pertencente ao Reino da Dinamarca, com representação no parlamento) e Bermudas (dependência britânica).",
+      "countries_amount": 50,
+      "languages_amount": 51,
+      "main_cities_amount": 12,
+      "cities": [
+        {
+          "city_image": "https://images.unsplash.com/photo-1483653364400-eedcfb9f1f88?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+          "name": "Nova York",
+          "from": "Estados Unidos",
+          "flag": "https://image.flaticon.com/icons/png/512/197/197484.png"
+        },
+        {
+          "city_image": "https://i.pinimg.com/originals/ab/44/98/ab4498b0c019586475989f1d26275652.jpg",
+          "name": "Cidade do México",
+          "from": "México",
+          "flag": "https://image.flaticon.com/icons/png/512/197/197397.png"
+        },
+        {
+          "city_image": "https://images.unsplash.com/photo-1517935706615-2717063c2225?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1901&q=80",
+          "name": "Toronto",
+          "from": "Canadá",
+          "flag": "https://image.flaticon.com/icons/png/512/197/197430.png"
+        },
+        {
+          "city_image": "https://images.unsplash.com/photo-1499886887649-ea679189e7b5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80",
+          "name": "Los Angeles",
+          "from": "Estados Unidos",
+          "flag": "https://image.flaticon.com/icons/png/512/197/197484.png"
+        },
+        {
+          "city_image": "https://images.unsplash.com/photo-1565467581544-9af37aa6014b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1948&q=80",
+          "name": "Montreal",
+          "from": "Canadá",
+          "flag": "https://image.flaticon.com/icons/png/512/197/197430.png"
+        }
+      ]
+    }
+  ]
+}
